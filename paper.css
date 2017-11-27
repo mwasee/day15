@@ -1,0 +1,18 @@
+#header{
+    height: 50px;
+    /*border: 2px solid #000;*/
+    text-align: center; 
+    color: blue;
+}
+#menu{
+    height: 30px;
+    /*border: 2px solid blue;*/
+}
+#line{
+    border-bottom: 1px solid red;
+    height: 20px;
+}
+#line2{
+     border-top: 1px solid blue;
+    height: 20px;
+}

@@ -1,0 +1,7 @@
+#result{
+    height: 50px;
+    width:200px;
+    text-align: center;
+    alignment-adjust: central;
+    border: 2px dotted #000;
+}
